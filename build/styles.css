@@ -1,0 +1,44 @@
+body {
+  font: normal 14px/100% "Andale Mono", AndaleMono, monospace;
+  background-color: #F8F6E3;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin-top:10%;
+}
+
+h1 {
+  font-size: 100px;
+  color:#7AA2E3;
+}
+
+.container {
+  background-color: #6AD4DD;
+  width:30vw;
+  height: 20vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin-top:10%;
+  border : 5px solid #7AA2E3;
+}
+
+.clock{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular' sans-serif;
+}
+
+/* button {
+  display: inline;
+  background-color: #6bbe92;
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 5px;
+  margin: 10px;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  font-size: 50px;
+} */
